@@ -2,8 +2,9 @@
 
 Genetic algorithm made for Programming Algorithm II class - UESB
 
-João Paulo Sandes Brito
 Teacher: Maisa Soares
+
+João Paulo Sandes Brito
 
 Code developed in order to demonstrate basic knowledge in Object Oriented Programming (JAVA)
 
